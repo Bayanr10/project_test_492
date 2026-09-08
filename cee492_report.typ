@@ -22,7 +22,7 @@
     ),
     (
       name: "Kyle Freeman",
-      department: [Department 2],
+      department: [Civil and Environmental Engineering],
       organization: [University of Illinois Urbana-Champaign],
       location: [Bloomingdale, IL, USA],
       email: "kylef3@illinois.edu",
