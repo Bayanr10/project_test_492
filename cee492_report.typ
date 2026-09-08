@@ -20,6 +20,13 @@
       location: [Urbana, IL, USA],
       email: "mc130@illinois.edu",
     ),
+    (
+      name: "Kyle Freeman",
+      department: [Department 2],
+      organization: [University of Illinois Urbana-Champaign],
+      location: [Bloomingdale, IL, USA],
+      email: "kylef3@illinois.edu",
+    ),
    (
       name: "Mudit Patel",
       department: [Civil and Environmental Engineering],
