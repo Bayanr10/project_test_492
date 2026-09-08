@@ -14,11 +14,11 @@
       email: "Bayanr2@illinois.edu",
     ),
     (
-      name: "Author 2",
-      department: [Department 2],
+      name: "Myeongwon Chae",
+      department: [Architecture],
       organization: [University of Illinois Urbana-Champaign],
       location: [Urbana, IL, USA],
-      email: "author2@illinois.edu",
+      email: "mc130@illinois.edu",
     ),
    (
       name: "Mudit Patel",
