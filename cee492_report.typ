@@ -34,6 +34,13 @@
       location: [Urbana, IL, USA],
       email: "muditcp2@illinois.edu",
     ),
+   (
+      name: "Diego Volpe",
+      department: [Civil and Environmental Engineering],
+      organization: [University of Illinois Urbana-Champaign],
+      location: [Urbana, IL, USA],
+      email: "dvolp@illinois.edu",
+    ),
   ),
   index-terms: ("Optional", "Keywords", "Here"),
   bibliography: bibliography("refs.bib"),
